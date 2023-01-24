@@ -2,7 +2,7 @@
 
 ## Implemented test case:
 
-✓ Checking successfull log in
+✓ Checking successfull authorization
 
 ### Allure report
 
