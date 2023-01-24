@@ -1,4 +1,4 @@
-# Automated test for BegetTech website
+# Automated test for [BegetTech website](https://reqres.in/)
 
 ## Implemented test case:
 
